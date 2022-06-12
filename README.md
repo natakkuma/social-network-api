@@ -26,9 +26,15 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 https://drive.google.com/file/d/1msTX2GXick5WW1Oh93wNXOEbNvG81Rtc/view
 
 ### Users - GET, POST, PUT, and DELETE in Insomnia
+https://drive.google.com/file/d/10CUxkkkj1hj2FUe8Q-1kDm9YBk1rKk80/view
 
 ### Thoughts - GET, POST, PUT, and DELETE in Insomnia
+https://drive.google.com/file/d/17DxrEbiUsvttDLz1gk83X7GumFyM3uTN/view
 
 ### Friends - POST and DELETE in Insomnia
+https://drive.google.com/file/d/1Qr7EQCtKiWfq_RaZcuQt1D6z1tBtDMvv/view
 
 ### Reactions - POST and DELETE in Insomnia
+https://drive.google.com/file/d/1Prt8xQYldeFisprUFTh5K_quzSPxmLmb/view
+
+
