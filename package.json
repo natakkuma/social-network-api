@@ -1,5 +1,5 @@
 {
-    "name": "mongoose-rides",
+    "name": "social-network",
     "version": "1.0.0",
     "description": "",
     "main": "server.js",
@@ -10,7 +10,7 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/natakkuma/social-network-api.git"
+      "url": "https://github.com/natakkuma/social-network-api.git"
     },
     "keywords": [],
     "author": "",
