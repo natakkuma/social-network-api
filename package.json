@@ -1,0 +1,29 @@
+{
+    "name": "mongoose-rides",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node server.js",
+      "watch": "nodemon server.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/natakkuma/social-network-api.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/natakkuma/social-network-api/issues"
+    },
+    "homepage": "https://github.com/natakkuma/social-network-api#readme",
+    "dependencies": {
+      "express": "^4.18.1",
+      "mongoose": "^6.3.1"
+    },
+    "devDependencies": {
+      "nodemon": "^2.0.16"
+    }
+  }
